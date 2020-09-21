@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/react-deploy/static/css/main.8f6a8295.chunk.css",
+    "main.css": "/react-deploy/static/css/main.8de9eb23.chunk.css",
     "main.js": "/react-deploy/static/js/main.ce9f0a04.chunk.js",
     "main.js.map": "/react-deploy/static/js/main.ce9f0a04.chunk.js.map",
     "runtime-main.js": "/react-deploy/static/js/runtime-main.2e59d031.js",
@@ -9,10 +9,10 @@
     "static/js/2.d126c128.chunk.js": "/react-deploy/static/js/2.d126c128.chunk.js",
     "static/js/2.d126c128.chunk.js.map": "/react-deploy/static/js/2.d126c128.chunk.js.map",
     "index.html": "/react-deploy/index.html",
-    "precache-manifest.a158e982677f431e6f2452ea77bc6125.js": "/react-deploy/precache-manifest.a158e982677f431e6f2452ea77bc6125.js",
+    "precache-manifest.36cc0ae83027255f2cfb7e863145a329.js": "/react-deploy/precache-manifest.36cc0ae83027255f2cfb7e863145a329.js",
     "service-worker.js": "/react-deploy/service-worker.js",
     "static/css/2.d9ad5f5c.chunk.css.map": "/react-deploy/static/css/2.d9ad5f5c.chunk.css.map",
-    "static/css/main.8f6a8295.chunk.css.map": "/react-deploy/static/css/main.8f6a8295.chunk.css.map",
+    "static/css/main.8de9eb23.chunk.css.map": "/react-deploy/static/css/main.8de9eb23.chunk.css.map",
     "static/js/2.d126c128.chunk.js.LICENSE.txt": "/react-deploy/static/js/2.d126c128.chunk.js.LICENSE.txt",
     "static/media/logo.svg": "/react-deploy/static/media/logo.f391e657.svg"
   },
@@ -20,7 +20,7 @@
     "static/js/runtime-main.2e59d031.js",
     "static/css/2.d9ad5f5c.chunk.css",
     "static/js/2.d126c128.chunk.js",
-    "static/css/main.8f6a8295.chunk.css",
+    "static/css/main.8de9eb23.chunk.css",
     "static/js/main.ce9f0a04.chunk.js"
   ]
 }
