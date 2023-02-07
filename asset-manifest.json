@@ -1,12 +1,12 @@
 {
   "files": {
-    "main.js": "/static/js/main.24c82116.js",
+    "main.js": "/static/js/main.b31f652f.js",
     "pdf.worker.js": "/e7e915313973ba1d49f9bb2a1998626e.js",
-    "static/media/TommasoFrambaResume2022.pdf": "/static/media/TommasoFrambaResume2022.040ab4ba4d149ae9b839.pdf",
+    "static/media/TommasoFrambaResume2023.pdf": "/static/media/TommasoFrambaResume2023.040ab4ba4d149ae9b839.pdf",
     "index.html": "/index.html",
-    "main.24c82116.js.map": "/static/js/main.24c82116.js.map"
+    "main.b31f652f.js.map": "/static/js/main.b31f652f.js.map"
   },
   "entrypoints": [
-    "static/js/main.24c82116.js"
+    "static/js/main.b31f652f.js"
   ]
 }
